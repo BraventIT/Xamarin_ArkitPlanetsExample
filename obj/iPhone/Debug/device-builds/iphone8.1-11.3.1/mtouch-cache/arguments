@@ -1,0 +1,23 @@
+# Version: 11.10.1.177 (d15-7: 7e782c1e)
+# [first argument, ignore] # --cache=/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mtouch/mtouch.exe \
+	'--dev=/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/bin/iPhone/Debug/device-builds/iphone8.1-11.3.1/ArkitPlanetsDemo.app' \
+	--executable=ArkitPlanetsDemo \
+	--fastdev \
+	--debug \
+	--linksdkonly \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.3 \
+	--targetver=11.3 \
+	--aot-options=-O=float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=arm64 \
+	'--symbollist=/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-symbols.list' \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	'--root-assembly=/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/bin/iPhone/Debug/ArkitPlanetsDemo.exe' \

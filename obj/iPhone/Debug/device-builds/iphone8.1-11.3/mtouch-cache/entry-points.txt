@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/danielcardena/Documents/Formaciones Bravent/Curso ARKit /XamarinPlanets/ArkitPlanetsDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
