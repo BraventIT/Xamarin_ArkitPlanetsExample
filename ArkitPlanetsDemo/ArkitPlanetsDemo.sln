@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkitPlanetsDemo", "ArkitPlanetsDemo.csproj", "{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkitPlanetsDemo", "ArkitPlanetsDemo\ArkitPlanetsDemo.csproj", "{23A46912-195C-455B-90A1-46736053C6F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Debug|iPhone = Debug|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Release|iPhone.ActiveCfg = Release|iPhone
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Release|iPhone.Build.0 = Release|iPhone
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}.Debug|iPhone.Build.0 = Debug|iPhone
+		{23A46912-195C-455B-90A1-46736053C6F7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{23A46912-195C-455B-90A1-46736053C6F7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{23A46912-195C-455B-90A1-46736053C6F7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{23A46912-195C-455B-90A1-46736053C6F7}.Release|iPhone.Build.0 = Release|iPhone
+		{23A46912-195C-455B-90A1-46736053C6F7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{23A46912-195C-455B-90A1-46736053C6F7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{23A46912-195C-455B-90A1-46736053C6F7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{23A46912-195C-455B-90A1-46736053C6F7}.Debug|iPhone.Build.0 = Debug|iPhone
 	EndGlobalSection
 EndGlobal

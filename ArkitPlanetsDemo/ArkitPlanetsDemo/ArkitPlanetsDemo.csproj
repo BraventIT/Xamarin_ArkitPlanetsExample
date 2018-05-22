@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
-    <ProjectGuid>{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}</ProjectGuid>
+    <ProjectGuid>{23A46912-195C-455B-90A1-46736053C6F7}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>ArkitPlanetsDemo</RootNamespace>
@@ -22,7 +22,7 @@
     <MtouchDebug>true</MtouchDebug>
     <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
     <MtouchFastDev>true</MtouchFastDev>
-    <IOSDebuggerPort>10016</IOSDebuggerPort>
+    <IOSDebuggerPort>20136</IOSDebuggerPort>
     <MtouchLink>None</MtouchLink>
     <MtouchArch>x86_64</MtouchArch>
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
@@ -70,7 +70,7 @@
     <MtouchFastDev>true</MtouchFastDev>
     <MtouchFloat32>true</MtouchFloat32>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <IOSDebuggerPort>36288</IOSDebuggerPort>
+    <IOSDebuggerPort>21599</IOSDebuggerPort>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchArch>ARM64</MtouchArch>
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
@@ -87,28 +87,28 @@
     <ImageAsset Include="Assets.xcassets\Contents.json" />
     <ImageAsset Include="Assets.xcassets\sun_back.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\sun_back.imageset\sun.jpg" />
+    <ImageAsset Include="Assets.xcassets\mars_back.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\mars_back.imageset\mars.jpg" />
     <ImageAsset Include="Assets.xcassets\EartDifuse.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\EartDifuse.imageset\earth_daymap.jpg" />
     <ImageAsset Include="Assets.xcassets\EarthSpecular.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\EarthEmision.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\EarthNormal.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\EartDifuse.imageset\earth_daymap.jpg" />
     <ImageAsset Include="Assets.xcassets\moon_back.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\moon_back.imageset\moon.jpg" />
-    <ImageAsset Include="Assets.xcassets\mars_back.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\mars_back.imageset\mars.jpg" />
     <ImageAsset Include="Assets.xcassets\EarthNormal.imageset\earth_normal_map.png" />
-    <ImageAsset Include="Assets.xcassets\EarthSpecular.imageset\earth_specular_map.png" />
     <ImageAsset Include="Assets.xcassets\EarthEmision.imageset\earth_clouds.jpg" />
+    <ImageAsset Include="Assets.xcassets\EarthSpecular.imageset\earth_specular_map.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
     <Folder Include="Assets.xcassets\sun_back.imageset\" />
+    <Folder Include="Assets.xcassets\mars_back.imageset\" />
     <Folder Include="Assets.xcassets\EartDifuse.imageset\" />
     <Folder Include="Assets.xcassets\EarthSpecular.imageset\" />
     <Folder Include="Assets.xcassets\EarthEmision.imageset\" />
     <Folder Include="Assets.xcassets\EarthNormal.imageset\" />
     <Folder Include="Assets.xcassets\moon_back.imageset\" />
-    <Folder Include="Assets.xcassets\mars_back.imageset\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />

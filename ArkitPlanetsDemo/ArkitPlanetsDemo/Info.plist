@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>ArkitPlanetsDemo</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.Bravent.ArkitPlanetsDemo</string>
+	<string>net.Bravent.ArkitPlanets.ArkitPlanetsDemo</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -37,6 +37,6 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Esta app necesita tu camara para mostrar realidad aumentada</string>
+	<string>Esta app necesita acceso a tu camara para mostrar Realidad Aumentada</string>
 </dict>
 </plist>

@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{0B9D0785-F1EF-4DFA-BB32-7D8EDDB20899}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArkitPlanetsDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.a9800fc7be2b30a352df526ebf4f269c5f44c105" />
+  <MultiItemStartupConfigurations />
+</Properties>
